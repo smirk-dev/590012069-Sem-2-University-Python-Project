@@ -1,7 +1,7 @@
 # 590012069-Sem-2-University-Python-Project
 # Advanced Mathematics Calculator
 
-![Calculator Screenshot](screenshot.png) <!-- Add a screenshot if available -->
+(https://github.com/user-attachments/assets/d8fe3d7d-1693-42c4-89d0-01e3c22da843)
 
 A comprehensive GUI-based mathematics calculator application built with Python and Tkinter, featuring algebraic, calculus, matrix, and plotting capabilities.
 
